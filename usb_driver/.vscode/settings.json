@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "kernel.h": "c",
+        "module.h": "c",
+        "usb.h": "c",
+        "delay.h": "c",
+        "errno.h": "c",
+        "sched.h": "c",
+        "pm_runtime.h": "c",
+        "mutex.h": "c",
+        "device.h": "c",
+        "completion.h": "c"
+    }
+}

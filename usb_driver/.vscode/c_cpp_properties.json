@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/Users/lovepreetsingh/Desktop/linux-6.0.7/include",
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
